@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # The docs
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Docusaurus in less than 5 hours or so**.
 
 ## Getting Started
 
