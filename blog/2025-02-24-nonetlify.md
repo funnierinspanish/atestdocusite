@@ -1,8 +1,8 @@
 ---
-title: Nonetlify
-slug: ghbuildonly
+title: Nonetlify2
+slug: ghbuildonlyz2
 ---
-GH build
+GH buildsssssss
 
 \- 1212
 
